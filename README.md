@@ -1,5 +1,5 @@
 # pdf-paragraph-segmentation
-<p>This is a paragraph detection & segmentation tool for PDF documents. </p>
+<p>This is a paragraph detection & segmentation tool for PDF documents. Better for those with rules and policies enumerated in the paragraph.</p>
 
 ## Package Requirement
 - PDFMiner
