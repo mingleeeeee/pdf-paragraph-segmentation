@@ -7,7 +7,7 @@
 - Regular Expression
 
 ## Sample PDF Document
-<img src="images/document.png" width="350">
+<img src="images/document.png" width="100%">
 
 ## Result for hightlight target
-<img src="images/result.png" width="350">
+<img src="images/result.png" width="100%">
